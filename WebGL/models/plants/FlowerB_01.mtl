@@ -1,0 +1,13 @@
+# Blender MTL File: 'Flowers.blend'
+# Material Count: 1
+
+newmtl Flowers_01
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.100000 0.100000 0.100000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd D:\MEGAsync\Art\RandomStuff\StylizedFoliage\Export\Textures\FlowerA_01_BaseColor.png
